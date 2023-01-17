@@ -1,0 +1,9 @@
+add_library(Adafruit_BusIO
+        Adafruit_BusIO_Register.h
+        Adafruit_BusIO_Register.cpp
+        Adafruit_I2CDevice.cpp
+        Adafruit_I2CDevice.h
+        Adafruit_I2CRegister.h
+        Adafruit_SPIDevice.cpp
+        Adafruit_SPIDevice.h
+        SPI.h)

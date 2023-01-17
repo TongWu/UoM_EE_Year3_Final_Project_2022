@@ -1,0 +1,105 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/include",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/src",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_VL53L1X-main",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/DFRobot_SIM7000-master",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/DFRobot_SIM-master",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/RTClib/src",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/TinyGPSPlus-1.0.3/src",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/DFRobot_ID809_I2C",
+                "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/SoftwareSerial/src",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_LSM6DS",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_LIS3MDL",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_Sensor",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_SH110X",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/arduino_674718",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_BusIO",
+                "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/Wire/src",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/ArduinoBLE",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/ArduinoBLE/utility",
+                "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/cores/arduino/api/deprecated",
+                "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/cores/arduino",
+                "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/variants/uno2018",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_APDS9960",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_GPS_Library/src",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_VCNL4040",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_VL53L0X-master",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Arduino_APDS9960/src",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/NewPing/src",
+                "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/SPI/src",
+                "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/EEPROM/src",
+                "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/HID/src",
+                "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/SPI/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/include",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/src",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_VL53L1X-main",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/DFRobot_SIM7000-master",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/DFRobot_SIM-master",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/RTClib/src",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/TinyGPSPlus-1.0.3/src",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/DFRobot_ID809_I2C",
+                    "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/SoftwareSerial/src",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_LSM6DS",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_LIS3MDL",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_Sensor",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_SH110X",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/arduino_674718",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_BusIO",
+                    "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/Wire/src",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/ArduinoBLE",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/ArduinoBLE/utility",
+                    "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/cores/arduino/api/deprecated",
+                    "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/cores/arduino",
+                    "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/variants/uno2018",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_APDS9960",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_GPS_Library/src",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_VCNL4040",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Adafruit_VL53L0X-master",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/Arduino_APDS9960/src",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/NewPing/src",
+                    "F:/University of Manchester/Year 3/EEEN30033 Individual Project 2021-22 Full Year/Project/Code/Week 8/MainBoardWired/lib/SPI/src",
+                    "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/EEPROM/src",
+                    "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/HID/src",
+                    "C:/Users/TedWu/.platformio/packages/framework-arduino-megaavr/libraries/SPI/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50205",
+                "ARDUINO_AVR_UNO_WIFI_REV2",
+                "UNO_WIFI_REV2_328MODE",
+                "MILLIS_USE_TIMERB3",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_MEGAAVR",
+                "ARDUINO=10808",
+                "USB_VID=0x03eb",
+                "USB_PID=0x2145",
+                "USB_PRODUCT=\"Arduino Uno WiFi Rev2\"",
+                "USB_MANUFACTURER=\"Arduino\"",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/TedWu/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega4809",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

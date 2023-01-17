@@ -1,0 +1,14 @@
+add_library(Adafruit_LSM6DS
+        Adafruit_ISM330DHCX.cpp
+        Adafruit_ISM330DHCX.h
+        Adafruit_LSM6DS.cpp
+        Adafruit_LSM6DS.h
+        Adafruit_LSM6DS3.cpp
+        Adafruit_LSM6DS3.h
+        Adafruit_LSM6DS33.cpp
+        Adafruit_LSM6DS33.h
+        Adafruit_LSM6DSL.cpp
+        Adafruit_LSM6DSL.h
+        Adafruit_LSM6DSO32.cpp
+        Adafruit_LSM6DSO32.h
+        Adafruit_LSM6DSOX.h)
