@@ -1,9 +1,6 @@
-# UoM_EE_Year3_Final_Project_2021
 # Electric Bike Performance Enhancement – Security System
 
-# Third Year Individual Project – Final Report
-
-# April 2022
+## Third Year Individual Project – Final Report April 2022
 
 **Tong Wu**
 
