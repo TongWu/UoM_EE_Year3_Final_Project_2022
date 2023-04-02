@@ -8,6 +8,8 @@
 
 Supervisor: Laith Danoon
 
+University of Manchester
+
 ## Contents
 
 [1. Introduction](#introduction)
