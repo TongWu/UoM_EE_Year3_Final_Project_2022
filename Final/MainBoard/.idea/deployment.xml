@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="marvellousehouse" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="marvellousehouse">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data" local="$PROJECT_DIR$/../../../../../../../cs4995_HW" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
